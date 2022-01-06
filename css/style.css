@@ -1,0 +1,155 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    color: black;
+}
+
+p{
+    text-align: justify;
+    padding-right: 15px;
+}
+.orange-color{
+    color: orange;
+}
+
+.flexible-container{
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.stay-focus-title{
+    padding-left: 10px;
+    border-left: 2px solid red;
+    line-height: 36px;
+}
+
+.li-btn{
+    text-decoration: none;
+    background-image: linear-gradient(#f34d0b, #eb4512);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 7px;
+}
+
+.first-section-image{
+    height: 470px;
+    width: fit-content;
+}
+
+.mission-section{
+    margin-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.mission-heading-area{
+    text-align: center;
+}
+
+.box{
+    background-color:rgb(214, 237, 238);
+    border: 1px;
+    border-radius: 30px;
+    height: 350px;
+    width: 300px; 
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.mission-image{
+    height: 150px;
+}
+
+#box-content{
+    padding-left: 15px;
+}
+
+#box-content-p{
+    padding-left: 15px;
+    justify-content: flex-start;
+}
+
+.mission-vission-goals{
+    display: flex;
+}
+
+.second-section-image{
+    height: 400px;
+    width: fit-content;
+}
+
+.half-width-develop{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#develop{
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+}
+
+#without{
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.msg{
+    text-align: center;
+    font-size: 36px; 
+}
+
+.contact{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.container-form {
+    padding-right: 5%;
+    padding-left: 5%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+  input[type=text], select, textarea {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+  }
+  
+.footer{
+    text-align: center;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.footer p{
+    text-align: center;
+    color: white;
+}
+
+.foter{
+    color: white;
+}
